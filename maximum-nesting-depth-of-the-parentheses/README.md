@@ -1,3 +1,4 @@
+[Discussion Post (created on 8/0/2021 at 21:43)](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/discuss/1007684/Python-Code-or-can-anyone-help-with-Optimization)  
 <h2>1614. Maximum Nesting Depth of the Parentheses</h2><h3>Easy</h3><hr><div><p>A string is a <strong>valid parentheses string</strong> (denoted <strong>VPS</strong>) if it meets one of the following:</p>
 
 <ul>
