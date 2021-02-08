@@ -1,3 +1,4 @@
+[Discussion Post (created on 8/1/2021 at 20:52)](https://leetcode.com/problems/sum-of-unique-elements/discuss/1056249/Python-Solution-or-myway)  
 <h2>1748. Sum of Unique Elements</h2><h3>Easy</h3><hr><div><p>You are given an integer array <code>nums</code>. The unique elements of an array are the elements that appear <strong>exactly once</strong> in the array.</p>
 
 <p>Return <em>the <strong>sum</strong> of all the unique elements of </em><code>nums</code>.</p>
